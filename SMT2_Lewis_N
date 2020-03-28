@@ -1,0 +1,29 @@
+First Video
+html- HyperTextMarkupLanguage
+<br> this is a lie break / its an empty element
+closing tag has a "/"
+
+Second video
+Starting a webpage <!doctype html>
+To close an html, you use </html>
+Everything that is displayed to the user is in the body
+
+Third Video
+Empty element does not need a closing tag
+<!-- makes notes to yourself without putting it on the website -->
+&nbsp puts a space between paragraphs, letters, or words
+
+Fourth Video 
+2 main lists - ordered and unordered
+Unordered list - <ul>
+Ordered list - <ol>
+
+Fifth Video
+<table><tr><td><th>
+<tr>- creates rows
+<th> - creates columns
+
+Sixth Video
+2 ways to add links; to outside webpage and to the section within the webpage
+Added with a <a> (anchor element)
+Within the <a> element is href
